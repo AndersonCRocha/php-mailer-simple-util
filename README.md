@@ -10,6 +10,6 @@
   $this->mail->Password = 'minhasenha123';
   $this->mail->setFrom('meuemail@gmail.com', 'Meu Nome');
   ```
-- Change email info in mail-test.php
+- Change mail info in mail-test.php
 - Run server: `php -S host:port`
 - Open: `host:port/mail-test.php`
